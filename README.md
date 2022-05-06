@@ -3,4 +3,4 @@ Navinfo is a China-based technology company with core businesses in HD map. I wo
 
 The main technology I worked with including virtualization(Docker, k8s) and linux.
 
-Those files are made for k8s automated deployment
+Those files are made for k8s automated deployment, and some basic setup for centos and CMP
