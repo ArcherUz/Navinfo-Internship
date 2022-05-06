@@ -1,6 +1,5 @@
 # Navinfo-Internship
-They are basic kubernetes deployment files, using 3 VMs (2 nodes and 1 master) and kubeadmin. 
+Navinfo is a China-based technology company with core businesses in HD map. I worked in Cloud Computing Infrastructure department as an intern. This department has Software-as-a-Service(SaaS), and provides customized OpenStack as a cloud computing platform to various car enterprises.
+The main technology I worked with including virtualization(Docker, k8s) and linux.
 
-The content contains from what is k8s, to set a k8s dependency environment, to actually deploy a k8s.
 
-The description makedown file is in chinese version.
